@@ -8,8 +8,8 @@
 Implementing different pie charts for SwiftUI
 first version added rounded donut chart with ability to select and animate slices 🤘🏼 
 ## Demo
-https://user-images.githubusercontent.com/71981088/110113463-636dbf00-7dc8-11eb-9cec-4b3958afc487.MP4
 
+![donutPieChart](https://user-images.githubusercontent.com/71981088/110114115-5b624f00-7dc9-11eb-8a0e-46aee0cbc954.gif)
 
 ## Contact
 
